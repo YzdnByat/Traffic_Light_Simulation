@@ -2,7 +2,7 @@
 
 ## 🎥 Demo
 
-![Traffic Light Simulation](assets/traffic_light.gif)
+![Traffic Light Simulation](image/1760105708303.gif)
 
 
 This project implements a **smart traffic light control system** for a four-way intersection.  
