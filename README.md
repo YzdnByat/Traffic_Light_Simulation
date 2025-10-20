@@ -1,5 +1,10 @@
 # Smart Traffic Light Control System (4-Way Intersection)
 
+## 🎥 Demo
+
+![Traffic Light Simulation](assets/traffic_light.gif)
+
+
 This project implements a **smart traffic light control system** for a four-way intersection.  
 The system supports **normal traffic flow**, **pedestrian control**, **emergency overrides**, and **adaptive timing based on traffic density**.  
 It was fully designed in **C/Assembly for microcontrollers** and **simulated in Proteus**.
