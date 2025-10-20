@@ -71,6 +71,3 @@ It was fully designed in **C/Assembly for microcontrollers** and **simulated in 
   - Virtual traffic sensors.
 - All modes (normal, emergency, pedestrian, adaptive) were verified.
 
----
-
-## 📂 Repository Structure
